@@ -1,0 +1,15 @@
+#labels Featured
+#Show brief explanation of the features of the product.
+
+jQCI is a web application framework, that use jQuery for JavaScript library and COdeIgniter for PHP framework.
+
+
+= Features =
+
+ * Standard database structured
+ * SQL for inserting standard data, for user and module management
+ * Use page template using CSS, so developer can be so easy to change the page template
+ * Generating CRUD application, just defining metadata of the application
+ * Very easy to add and remove new modules
+ * Using MVC technique for developing the application
+ 
