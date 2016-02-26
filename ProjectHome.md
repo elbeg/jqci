@@ -1,0 +1,1 @@
+This project is intended to simplify develop web based application, using jQuery for JavaScript library and CodeIgniter for PHP framework.
